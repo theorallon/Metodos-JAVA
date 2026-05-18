@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Primeiro, faça login:");
         Metodos.fazerLogin();
 
+        clearConsole();
+
         int opcao;
         int numero;
         System.out.println("Escolha uma opção:");
